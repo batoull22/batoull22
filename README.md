@@ -2,7 +2,7 @@
 
 
 ### Hello! I'm batoul 👋
-- 🎓✨ A computer science graduate at IMAMU.
+- 🎓✨ A computer science graduate at IMSIU.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me: batoulalotaibi7@gmail.com.
